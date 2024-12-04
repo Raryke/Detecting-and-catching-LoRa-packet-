@@ -1,4 +1,4 @@
-LoRa DETECTING, CATCHING and ANAALYSIS
+LoRa DETECTING, CATCHING and ANALYSIS
 This project focuses on capturing and analyzing LoRa communication packets between Arduino sensors and a Dragino Gateway using RTL-SDR and various software tools. 
 The system allows monitoring of temperature, humidity, and smoke detection data transmitted over LoRaWAN networks.
 This documents provides brief instructual manual, for more detailed procedure see the report 
